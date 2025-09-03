@@ -1,16 +1,25 @@
-## Hi there 👋
+Hi, I’m Riya Gupta 👋
 
-<!--
-**Riya23160/Riya23160** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 Final year student with interests in Machine Learning, Cloud, and Frontend Development
 
-Here are some ideas to get you started:
+🤖 Passionate about building AI-driven projects and exploring how ML integrates with real-world applications
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+☁️ Diving into Cloud Engineering and distributed systems
+
+💻 Experienced in Python, Java, C, and Front End Development
+
+🎨 Also into art & music, which fuel my creativity in tech
+
+🚀 Tech Stack
+
+Languages:
+Python • Java • C • C++ • JavaScript
+
+Machine Learning / AI:
+TensorFlow • PyTorch • Scikit-learn • OpenCV • Pandas
+
+Web Development:
+HTML • CSS • Tailwind • SQL
+
+Cloud & Tools:
+AWS • Docker • Git • GitHub • VS Code 
