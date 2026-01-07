@@ -6,7 +6,7 @@ Hi, I’m Riya Gupta 👋
 
 ☁️ Diving into Cloud Engineering and distributed systems
 
-💻 Experienced in Python, Java, C, and Front End Development
+💻 Experienced in Python, Java, C and ML
 
 🎨 Also into art & music, which fuel my creativity in tech
 
